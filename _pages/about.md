@@ -49,7 +49,7 @@ Symbol \* indicates that I am the (co-)corresponding author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOUPS EA'22</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[New Differential Privacy Communication Pipeline and Design Framework](https://www.usenix.org/system/files/soups2022-poster16_jia_abstract_final.pdf) in the EA of the Eighteenth Symposium on Usable Privacy and Security (SOUPS), 2022.
+[New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) in the EA of the Eighteenth Symposium on Usable Privacy and Security (SOUPS), 2022.
 
 **Authors:** Jingyu Jia, **Zikai Alex Wen\***, Zheli Liu, Changyu Dong
 
@@ -61,7 +61,7 @@ Symbol \* indicates that I am the (co-)corresponding author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'19</div><img src='images/whathackpaper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Phishing Simulation Game](https://dl.acm.org/doi/abs/10.1145/3290605.3300338) in the proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019.
+[What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Phishing Simulation Game](articles/wenwhatdothack19.pdf) in the proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019.
 
 **Authors:** **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, Erik Andersen
 
@@ -79,31 +79,32 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 | Venue   | Title  | Author(s) | Theme(s) | 
 | ------- | ------ | --------- | -------- | 
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) | Danlu Fei, Ze Gao, Linping Yuan, **Zikai Alex Wen\*** | AI, HCI |
-| **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](https://www.usenix.org/system/files/soups2022-poster16_jia_abstract_final.pdf) | Jingyu Jia, **Zikai Alex Wen\***, [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
-| **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](https://andy-xingbowang.com/papers/dashboard_learning_assets22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, Haotian Li, Xingbo Wang, Shenghui Song, [Huamin Qu](http://huamin.org/) | HCI, VIS |
-| **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](http://zkwen.info/article/slds-game.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, Shenghui Song, [Huamin Qu](http://huamin.org/)| HCI|
-| **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games]()  | Zhonghao Lin, Haihan Duan, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
-| **IEEE GEM'22** | [Understanding the Challenges of Team-Based Live Streaming for First-person Shooter Games](https://arxiv.org/pdf/2208.07529.pdf)  | Jiaye Li, Minghao Li, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
+| **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
+| **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](articles/fungdashboard22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, Haotian Li, Xingbo Wang, Shenghui Song, [Huamin Qu](http://huamin.org/) | HCI, VIS |
+| **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](articles/funggame22.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, Shenghui Song, [Huamin Qu](http://huamin.org/)| HCI|
+| **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, Haihan Duan, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
+| **IEEE GEM'22** | [Understanding the Challenges of Team-Based Live Streaming for First-person Shooter Games](articles/liunderstanding22.pdf)  | Jiaye Li, Minghao Li, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
 
 ## 2021-2017
 
 | Venue   | Title  | Author(s) | Theme(s) |
 | ------- | ------ | --------- | -------- | 
-| **ASSETS EA'21** | [An Intelligent Math E-Tutoring System for Students with Specific Learning Disabilities](https://dl.acm.org/doi/abs/10.1145/3441852.3476568) | **Zikai Alex Wen**, [Yuhang Zhao](https://www.yuhangz.com/), Erica Silverstein, [Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/) | AI, HCI |
-| **ASSETS'20** | [Teacher Views of Math E-Learning Tools for Students with Specific Learning Disabilities](https://www.cs.cornell.edu/~zkwen/papers/math-teacher-sld.pdf) | **Zikai Alex Wen**, Erica O Silverstein, [Yuhang Zhao](https://www.yuhangz.com/), Anjelika Lynne S Amog, [Katherine Garnett](https://education.hunter.cuny.edu/about/faculty-staff/kate-garnett/), [Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/) | HCI |
-| **CHI'19** | [What.Hack: Engaging Anti-Phishing Training Through a Role-playing Cyber Defense Simulation Game](https://www.researchgate.net/profile/Zhiqiu-Lin/publication/332745435_WhatHack_Engaging_Anti-Phishing_Training_Through_a_Role-playing_Phishing_Simulation_Game/links/5ecfe25d45851529451b2cd4/WhatHack-Engaging-Anti-Phishing-Training-Through-a-Role-playing-Phishing-Simulation-Game.pdf) | **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, [Erik Andersen](http://www.cs.cornell.edu/~eland/) | HCI, S&P |
-| **CHI EA'17** | [What.Hack: Learn Phishing Email Defence the Fun Way](https://dl.acm.org/doi/abs/10.1145/3027063.3048412) | **Zikai Alex Wen\***, Yiming Li, Reid Wade, Jeffrey Huang, Amy Wang | HCI, S&P | 
+| **ASSETS EA'21** | [An Intelligent Math E-Tutoring System for Students with Specific Learning Disabilities](articles/wenmath21.pdf) | **Zikai Alex Wen**, [Yuhang Zhao](https://www.yuhangz.com/), Erica Silverstein, [Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/) | AI, HCI |
+| **ASSETS'20** | [Teacher Views of Math E-Learning Tools for Students with Specific Learning Disabilities](articles/wenteacher20.pdf) | **Zikai Alex Wen**, Erica O Silverstein, [Yuhang Zhao](https://www.yuhangz.com/), Anjelika Lynne S Amog, [Katherine Garnett](https://education.hunter.cuny.edu/about/faculty-staff/kate-garnett/), [Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/) | HCI |
+| **CHI'19** | [What.Hack: Engaging Anti-Phishing Training Through a Role-playing Cyber Defense Simulation Game](articles/wenwhatdothack19.pdf) | **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, [Erik Andersen](http://www.cs.cornell.edu/~eland/) | HCI, S&P |
+| **CHI EA'17** | [What.Hack: Learn Phishing Email Defence the Fun Way](articles/wenwhatdothack19.pdf) | **Zikai Alex Wen\***, Yiming Li, Reid Wade, Jeffrey Huang, Amy Wang | HCI, S&P | 
 
 ## 2016-2013 
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | ------- | ------ | ------- | ----- | 
-| **S&P'16** | [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf) | [Ahmed Kosba](http://eng.staff.alexu.edu.eg/~akosba/), [Andrew Miller](https://soc1024.ece.illinois.edu/), [Elaine Shi](http://elaineshi.com/), **Zikai Wen**, [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/) | S&P |
-| **ACM SAC'14** | [Efficient Protocols for Private Record Linkage](https://strathprints.strath.ac.uk/49094/4/Wen_Dong_SAC2014_efficient_protocols_for_private_record_linkage.pdf) | **Zikai Wen**, [Changyu Dong](https://changyudong.site/) | S&P |
-| **CCS'13** | [When Private Set Intersection Meets Big Data: an Efficient and Scalable Protocol](https://eprint.iacr.org/2013/515.pdf) | [Changyu Dong](https://changyudong.site/), [Liqun Chen](https://www.surrey.ac.uk/people/liqun-chen), **Zikai Wen** | S&P |
+| **S&P'16** | [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](articles/kosbahawk16.pdf) | [Ahmed Kosba](http://eng.staff.alexu.edu.eg/~akosba/), [Andrew Miller](https://soc1024.ece.illinois.edu/), [Elaine Shi](http://elaineshi.com/), **Zikai Wen**, [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/) | S&P |
+| **ACM SAC'14** | [Efficient Protocols for Private Record Linkage](articles/wenprl14.pdf) | **Zikai Wen**, [Changyu Dong](https://changyudong.site/) | S&P |
+| **CCS'13** | [When Private Set Intersection Meets Big Data: an Efficient and Scalable Protocol](articles/dongpsi13.pdf) | [Changyu Dong](https://changyudong.site/), [Liqun Chen](https://www.surrey.ac.uk/people/liqun-chen), **Zikai Wen** | S&P |
 
 
 # 🎖 Honors and Awards
+- *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP Conference
 - *2017* **Student Game Competition Runner-Up** at ACM CHI Conference 
 - *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
 - *2014* **The Outstanding Graduate of Beijing** from Beijing Municipal Education Commission
