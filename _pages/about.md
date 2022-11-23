@@ -17,42 +17,104 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a postdoctoral fellow at [CMA Thrust, the Hong Kong University of Science and Technology (Guangzhou)](https://cma.hkust-gz.edu.cn/people/zikai-alex-wen/); affiliated with [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html) supervised by [Prof. Huamin Qu](http://www.huamin.org/#groupmember). I received my Computer Science Ph.D. degree from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my first-class honours bachelor's degrees in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm). 
+<!--I am fortunate to have worked with [Prof. Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/), [Prof. Erik Andersen](http://www.cs.cornell.edu/~eland/), [Prof. Elaine Shi](http://elaineshi.com/), and [Prof. Changyu Dong](https://changyudong.site/).  -->
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research focuses on [**human-centered AI**](https://research.ibm.com/blog/what-is-human-centered-ai). More specifically, I analyze and address the [**usability & accessibility**](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/), [**security & privacy**](https://www.howtogeek.com/765272/privacy-vs-security-whats-the-difference/) issues that arise when AI technologies are applied to enhance people's daily lives. I have published at top-tier CS conferences in human-computer interaction or security & privacy research, such as ACM CHI, ACM ASSETS, IEEE S&P, and ACM CCS (<a href='https://scholar.google.com/citations?user=apCH14IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). I also work closely with Fortune 500 companies to help bridge the gap between in-the-lab AI to production AI using my research outcomes. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/)
+- *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+Symbol \* indicates that I am the (co-)corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI Play EA'22</div><img src='images/collectiar.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) in the EA of the Annual Symposium on Computer-Human Interaction in Play (CHI Play), 2022.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Authors:** Danlu Fei, Ze Gao, Linping Yuan, **Zikai Alex Wen\***
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract:** The existing word recognition and spelling training games for children with dyslexia were not able to leverage children's immediate vicinity. Therefore, we designed an augmented reality mobile game, CollectiAR, that uses computer vision to identify objects in the player's immediate vicinity.
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+<!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+<!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOUPS EA'22</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[New Differential Privacy Communication Pipeline and Design Framework](https://www.usenix.org/system/files/soups2022-poster16_jia_abstract_final.pdf) in the EA of the Eighteenth Symposium on Usable Privacy and Security (SOUPS), 2022.
+
+**Authors:** Jingyu Jia, **Zikai Alex Wen\***, Zheli Liu, Changyu Dong
+
+**Abstract:** To help users understand how differential privacy techniques may help protect their data, we propose a new communication pipeline that starts with asking users about their privacy concerns and then provides customized differential privacy mechanism and communication. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'19</div><img src='images/whathackpaper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Phishing Simulation Game](https://dl.acm.org/doi/abs/10.1145/3290605.3300338) in the proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019.
+
+**Authors:** **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, Erik Andersen
+
+**Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
+
+</div>
+</div>
+
+# 📖 Full Publications
+
+Symbol \* indicates that I am the (co-)corresponding author.
+
+## 2022
+
+| Venue   | Title  | Author(s) | Theme(s) | 
+| ------- | ------ | --------- | -------- | 
+| **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) | Danlu Fei, Ze Gao, Linping Yuan, **Zikai Alex Wen\*** | AI, HCI |
+| **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](https://www.usenix.org/system/files/soups2022-poster16_jia_abstract_final.pdf) | Jingyu Jia, **Zikai Alex Wen\***, [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
+| **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](https://andy-xingbowang.com/papers/dashboard_learning_assets22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, Haotian Li, Xingbo Wang, Shenghui Song, [Huamin Qu](http://huamin.org/) | HCI, VIS |
+| **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](http://zkwen.info/article/slds-game.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, Shenghui Song, [Huamin Qu](http://huamin.org/)| HCI|
+| **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games]()  | Zhonghao Lin, Haihan Duan, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
+| **IEEE GEM'22** | [Understanding the Challenges of Team-Based Live Streaming for First-person Shooter Games](https://arxiv.org/pdf/2208.07529.pdf)  | Jiaye Li, Minghao Li, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
+
+## 2021-2017
+
+| Venue   | Title  | Author(s) | Theme(s) |
+| ------- | ------ | --------- | -------- | 
+| **ASSETS EA'21** | [An Intelligent Math E-Tutoring System for Students with Specific Learning Disabilities](https://dl.acm.org/doi/abs/10.1145/3441852.3476568) | **Zikai Alex Wen**, [Yuhang Zhao](https://www.yuhangz.com/), Erica Silverstein, [Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/) | AI, HCI |
+| **ASSETS'20** | [Teacher Views of Math E-Learning Tools for Students with Specific Learning Disabilities](https://www.cs.cornell.edu/~zkwen/papers/math-teacher-sld.pdf) | **Zikai Alex Wen**, Erica O Silverstein, [Yuhang Zhao](https://www.yuhangz.com/), Anjelika Lynne S Amog, [Katherine Garnett](https://education.hunter.cuny.edu/about/faculty-staff/kate-garnett/), [Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/) | HCI |
+| **CHI'19** | [What.Hack: Engaging Anti-Phishing Training Through a Role-playing Cyber Defense Simulation Game](https://www.researchgate.net/profile/Zhiqiu-Lin/publication/332745435_WhatHack_Engaging_Anti-Phishing_Training_Through_a_Role-playing_Phishing_Simulation_Game/links/5ecfe25d45851529451b2cd4/WhatHack-Engaging-Anti-Phishing-Training-Through-a-Role-playing-Phishing-Simulation-Game.pdf) | **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, [Erik Andersen](http://www.cs.cornell.edu/~eland/) | HCI, S&P |
+| **CHI EA'17** | [What.Hack: Learn Phishing Email Defence the Fun Way](https://dl.acm.org/doi/abs/10.1145/3027063.3048412) | **Zikai Alex Wen\***, Yiming Li, Reid Wade, Jeffrey Huang, Amy Wang | HCI, S&P | 
+
+## 2016-2013 
+
+| Venue   | Title  | Author(s) | Theme(s) | 
+| ------- | ------ | ------- | ----- | 
+| **S&P'16** | [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf) | [Ahmed Kosba](http://eng.staff.alexu.edu.eg/~akosba/), [Andrew Miller](https://soc1024.ece.illinois.edu/), [Elaine Shi](http://elaineshi.com/), **Zikai Wen**, [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/) | S&P |
+| **ACM SAC'14** | [Efficient Protocols for Private Record Linkage](https://strathprints.strath.ac.uk/49094/4/Wen_Dong_SAC2014_efficient_protocols_for_private_record_linkage.pdf) | **Zikai Wen**, [Changyu Dong](https://changyudong.site/) | S&P |
+| **CCS'13** | [When Private Set Intersection Meets Big Data: an Efficient and Scalable Protocol](https://eprint.iacr.org/2013/515.pdf) | [Changyu Dong](https://changyudong.site/), [Liqun Chen](https://www.surrey.ac.uk/people/liqun-chen), **Zikai Wen** | S&P |
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017* **Student Game Competition Runner-Up** at ACM CHI Conference 
+- *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
+- *2014* **The Outstanding Graduate of Beijing** from Beijing Municipal Education Commission
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!--# 📖 Educations-->
+<!--- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!---->
+<!--# 💬 Invited Talks-->
+<!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+<!---->
+<!--# 💻 Internships-->
+<!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
