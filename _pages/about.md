@@ -20,7 +20,7 @@ redirect_from:
 I am a postdoctoral fellow at [CMA Thrust, the Hong Kong University of Science and Technology (Guangzhou)](https://cma.hkust-gz.edu.cn/people/zikai-alex-wen/); affiliated with [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html) supervised by [Prof. Huamin Qu](http://www.huamin.org/#groupmember). I received my Computer Science Ph.D. degree from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my first-class honours bachelor's degrees in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm). 
 <!--I am fortunate to have worked with [Prof. Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/), [Prof. Erik Andersen](http://www.cs.cornell.edu/~eland/), [Prof. Elaine Shi](http://elaineshi.com/), and [Prof. Changyu Dong](https://changyudong.site/).  -->
 
-My research focuses on [**human-centered AI**](https://research.ibm.com/blog/what-is-human-centered-ai). More specifically, I analyze and address the [**usability & accessibility**](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/), [**security & privacy**](https://www.howtogeek.com/765272/privacy-vs-security-whats-the-difference/) issues that arise when AI technologies are applied to enhance people's daily lives. I have published at top-tier CS conferences in human-computer interaction or security & privacy research, such as ACM CHI, ACM ASSETS, IEEE S&P, and ACM CCS (<a href='https://scholar.google.com/citations?user=apCH14IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). I also work closely with Fortune 500 companies to help bridge the gap between in-the-lab AI to production AI using my research outcomes. 
+My research focuses on [**human-centered AI**](https://research.ibm.com/blog/what-is-human-centered-ai). More specifically, I analyze and address the [**usability & accessibility**](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/), [**security & privacy**](https://www.howtogeek.com/765272/privacy-vs-security-whats-the-difference/) issues that arise when AI technologies are applied to enhance people's daily lives. I have published at top-tier CS conferences in human-computer interaction or security & privacy research, such as ACM CHI, ACM ASSETS, IEEE S&P, and ACM CCS. I also work closely with Fortune 500 companies to help bridge the gap between in-the-lab AI to production AI using my research outcomes. 
 
 # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/)
@@ -72,7 +72,7 @@ Symbol \* indicates that I am the (co-)corresponding author.
 
 # 📖 Full Publications
 
-Symbol \* indicates that I am the (co-)corresponding author.
+Symbol \* indicates that I am the (co-)corresponding author. My current citation status is: <a href='https://scholar.google.com/citations?user=apCH14IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## 2022
 
