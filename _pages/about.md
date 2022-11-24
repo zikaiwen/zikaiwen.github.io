@@ -105,6 +105,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 
 # 🎖 Honors and Awards
+- *2022* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
 - *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP Conference
 - *2017* **Student Game Competition Runner-Up** at ACM CHI Conference 
 - *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
