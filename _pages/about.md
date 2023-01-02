@@ -36,11 +36,11 @@ Symbol \* indicates that I am the (co-)corresponding author.
 
 [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) in the EA of the Annual Symposium on Computer-Human Interaction in Play (CHI Play), 2022.
 
-**Auxiliary:** [presentation](https://youtu.be/5kLCCoV4r1I)
-
 **Authors:** Danlu Fei, Ze Gao, Linping Yuan, **Zikai Alex Wen\***
 
 **Abstract:** The existing word recognition and spelling training games for children with dyslexia were not able to leverage children's immediate vicinity. Therefore, we designed an augmented reality mobile game, CollectiAR, that uses computer vision to identify objects in the player's immediate vicinity.
+
+**Pointers:** [Presentation](https://youtu.be/5kLCCoV4r1I)
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 <!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -70,6 +70,8 @@ Symbol \* indicates that I am the (co-)corresponding author.
 
 **Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
 
+**Pointers:** [Game](https://www.cs.cornell.edu/~zkwen/whatdothack)
+
 </div>
 </div>
 
@@ -85,7 +87,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 | **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, Zheli Liu, [Changyu Dong](https://changyudong.site/) | HCI, S&P |
 | **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](articles/fungdashboard22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, [Haotian Li](https://haotian-li.com/), [Xingbo Wang](https://andy-xingbowang.com/), [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/) | HCI, VIS |
 | **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](articles/funggame22.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/)| HCI|
-| **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, Haihan Duan, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
+| **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, [Haihan Duan](https://seaxiaod.gitee.io), **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
 | **IEEE GEM'22** | [Understanding the Challenges of Team-Based Live Streaming for First-person Shooter Games](articles/liunderstanding22.pdf)  | Jiaye Li, Minghao Li, **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
 
 ## 2021-2017
