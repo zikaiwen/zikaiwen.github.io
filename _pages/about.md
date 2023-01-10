@@ -23,7 +23,7 @@ I am a postdoctoral fellow at [CMA Thrust, the Hong Kong University of Science a
 My research focuses on [**human-centered AI**](https://research.ibm.com/blog/what-is-human-centered-ai). More specifically, I analyze and address the [**usability & accessibility**](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/) issues and [**security & privacy**](https://www.howtogeek.com/765272/privacy-vs-security-whats-the-difference/) issues that arise when AI technologies are applied to enhance people's daily lives. I have published at top-tier CS conferences in human-computer interaction or security & privacy research, such as ACM CHI, ACM ASSETS, IEEE S&P, and ACM CCS. I also work closely with Fortune 500 companies to help bridge the gap from AI in research to AI in production through my research. 
 
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation!](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) A big thank you to my research team!
+- *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
 - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/)
 - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22.
 
