@@ -24,7 +24,7 @@ My research focuses on [**human-centered AI**](https://research.ibm.com/blog/wha
 
 # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
-- *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/)
+- *2022.11*: &nbsp;🎉🎉 "CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.
 - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22.
 
 # 📝 Selected Publications 
