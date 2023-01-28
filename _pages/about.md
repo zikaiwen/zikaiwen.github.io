@@ -83,7 +83,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | ------- | ------ | --------- | -------- | 
-| **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) | [Danlu Fei](http://cma.hkust-gz.edu.cn/research-students/danlu-fei-6/), [Ze Gao](https://www.zegaoart.com/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | AI, HCI |
+| **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | [Danlu Fei](http://cma.hkust-gz.edu.cn/research-students/danlu-fei-6/), [Ze Gao](https://www.zegaoart.com/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | AI, HCI |
 | **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, Zheli Liu, [Changyu Dong](https://changyudong.site/) | HCI, S&P |
 | **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](articles/fungdashboard22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, [Haotian Li](https://haotian-li.com/), [Xingbo Wang](https://andy-xingbowang.com/), [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/) | HCI, VIS |
 | **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](articles/funggame22.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/)| HCI|
