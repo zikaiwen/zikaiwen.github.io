@@ -23,13 +23,26 @@ I am a postdoctoral fellow at [CMA Thrust, the Hong Kong University of Science a
 My research focuses on [**human-centered AI**](https://research.ibm.com/blog/what-is-human-centered-ai). More specifically, I analyze and address the [**usability & accessibility**](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/) issues and [**security & privacy**](https://www.howtogeek.com/765272/privacy-vs-security-whats-the-difference/) issues that arise when AI technologies are applied to enhance people's daily lives. I have published at top-tier CS conferences in human-computer interaction or security & privacy research, such as ACM CHI, ACM ASSETS, IEEE S&P, and ACM CCS. I also collaborate closely with Fortune 500 businesses to facilitate the transition from AI in research to AI in practical applications.
 
 # 🔥 News
+- *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program Project in which I act as Co-Investigator secures 30 Million HKD funding from QEF!](https://www.qef.org.hk/en/application_guide/elearning_ancillary.html)
 - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
 - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/)
-- *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22.
+<!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
 
 # 📝 Selected Publications 
 
 Symbol \* indicates that I am the (co-)corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOSCI</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](https://authors.elsevier.com/c/1h7MR4ZQEBrz1) in Information Sciences, Sep. 2023.
+
+**Authors:** **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, Yaxing Yao, Zheli Liu, Changyu Dong
+
+**Highlights:** Our explanatory illustration design simplifies the understanding of differential privacy protection of numerical data. A survey of 228 people shows visual illustration outperformed text-based explanation in understanding differential privacy. Learning about privacy-enhancing technology does not necessarily increase the willingness to share data.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI Play EA'22</div><img src='images/collectiar.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,18 +58,6 @@ Symbol \* indicates that I am the (co-)corresponding author.
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 <!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 <!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOUPS EA'22</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) in the EA of the Eighteenth Symposium on Usable Privacy and Security (SOUPS), 2022.
-
-**Authors:** Jingyu Jia, **Zikai Alex Wen\***, Zheli Liu, Changyu Dong
-
-**Abstract:** To help users understand how differential privacy techniques may help protect their data, we propose a new communication pipeline that starts with asking users about their privacy concerns and then provides customized differential privacy mechanism and communication. 
 
 </div>
 </div>
@@ -82,8 +83,9 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | :-----: | ------ | --------- | -------- | 
+| **INFOSCI'23** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](https://authors.elsevier.com/c/1h7MR4ZQEBrz1) | **Zikai Alex Wen**, Jingyu Jia, [Hongyang Yan](https://www.researchgate.net/profile/Hongyang-Yan), [Yaxing Yao](http://yaxingyao.com/), [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | [Danlu Fei](http://cma.hkust-gz.edu.cn/research-students/danlu-fei-6/), [Ze Gao](https://www.zegaoart.com/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | AI, HCI |
-| **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, Zheli Liu, [Changyu Dong](https://changyudong.site/) | HCI, S&P |
+| **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
 | **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](articles/fungdashboard22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, [Haotian Li](https://haotian-li.com/), [Xingbo Wang](https://andy-xingbowang.com/), [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/) | HCI, VIS |
 | **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](articles/funggame22.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/)| HCI|
 | **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, [Haihan Duan](https://seaxiaod.gitee.io), **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | AI, HCI |
@@ -99,6 +101,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 
 # 🎖 Honors and Awards
+- *2023* [**The e-Learning Ancillary Facilities Program Grantee (30 Million HKD)**](https://www.qef.org.hk/en/application_guide/elearning_ancillary.html) from QEF, Hong Kong
 - *2022* [**The Fellowship of China Postdoctoral Science Foundation**](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) from CPSF
 - *2022* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
 - *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
