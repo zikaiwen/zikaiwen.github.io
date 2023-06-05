@@ -24,9 +24,10 @@ My research focuses on [**human-centered AI**](https://research.ibm.com/blog/wha
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program Project in which I act as Co-Investigator secures 30 Million HKD funding from QEF!](https://www.qef.org.hk/en/application_guide/elearning_ancillary.html)
+- *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.233)!](https://authors.elsevier.com/c/1h7MR4ZQEBrz1)
 - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
-- *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/)
-<!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
+<!--- *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/) -->
+ <!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
 
 # 📝 Selected Publications 
 
