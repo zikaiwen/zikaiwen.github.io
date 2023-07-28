@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral fellow at [CMA Thrust, the Hong Kong University of Science and Technology (Guangzhou)](https://cma.hkust-gz.edu.cn/people/zikai-alex-wen/); affiliated with [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html) supervised by [Prof. Huamin Qu](http://www.huamin.org/#groupmember). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my first-class honours bachelor's degrees in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm). 
+I am a postdoctoral fellow at [CMA Thrust, the Hong Kong University of Science and Technology (Guangzhou)](https://cma.hkust-gz.edu.cn/people/zikai-alex-wen/); affiliated with [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html) supervised by [Prof. Huamin Qu](http://www.huamin.org/#groupmember). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my dual First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm). 
 <!--I am fortunate to have worked with [Prof. Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/), [Prof. Erik Andersen](http://www.cs.cornell.edu/~eland/), [Prof. Elaine Shi](http://elaineshi.com/), and [Prof. Changyu Dong](https://changyudong.site/).  -->
 
 My research focuses on [**human-centered AI**](https://research.ibm.com/blog/what-is-human-centered-ai). More specifically, I analyze and address the [**usability & accessibility**](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/) issues and [**security & privacy**](https://www.howtogeek.com/765272/privacy-vs-security-whats-the-difference/) issues that arise when AI technologies are applied to enhance people's daily lives. I have published at top-tier CS conferences in human-computer interaction or security & privacy research, such as ACM CHI, ACM ASSETS, IEEE S&P, and ACM CCS. I also collaborate closely with Fortune 500 businesses to facilitate the transition from AI in research to AI in practical applications.
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program Project in which I act as Co-Investigator secures 30 Million HKD funding from QEF!](https://www.qef.org.hk/en/application_guide/elearning_ancillary.html)
-- *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.233)!](https://authors.elsevier.com/c/1h7MR4ZQEBrz1)
+- *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program Project in which I act as Co-Investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en)
+- *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](articles/weninfluence23.pdf)
 - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
-<!--- *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/) -->
+<!-- - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/) -->
  <!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
 
 # 📝 Selected Publications 
@@ -36,7 +36,7 @@ Symbol \* indicates that I am the (co-)corresponding author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOSCI</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](https://authors.elsevier.com/c/1h7MR4ZQEBrz1) in Information Sciences, Sep. 2023.
+[The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) in Information Sciences, Sep. 2023.
 
 **Authors:** **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, Yaxing Yao, Zheli Liu, Changyu Dong
 
@@ -84,7 +84,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | :-----: | ------ | --------- | -------- | 
-| **INFOSCI'23** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](https://authors.elsevier.com/c/1h7MR4ZQEBrz1) | **Zikai Alex Wen**, Jingyu Jia, [Hongyang Yan](https://www.researchgate.net/profile/Hongyang-Yan), [Yaxing Yao](http://yaxingyao.com/), [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
+| **INFOSCI'23** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, [Hongyang Yan](https://www.researchgate.net/profile/Hongyang-Yan), [Yaxing Yao](http://yaxingyao.com/), [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | [Danlu Fei](http://cma.hkust-gz.edu.cn/research-students/danlu-fei-6/), [Ze Gao](https://www.zegaoart.com/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | AI, HCI |
 | **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | HCI, S&P |
 | **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](articles/fungdashboard22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, [Haotian Li](https://haotian-li.com/), [Xingbo Wang](https://andy-xingbowang.com/), [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/) | HCI, VIS |
@@ -102,7 +102,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 
 # 🎖 Honors and Awards
-- *2023* [**The e-Learning Ancillary Facilities Program Grantee (30 Million HKD)**](https://www.qef.org.hk/en/application_guide/elearning_ancillary.html) from QEF, Hong Kong
+- *2023* [**The e-Learning Ancillary Facilities Program Grantee (30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from QEF, Hong Kong
 - *2022* [**The Fellowship of China Postdoctoral Science Foundation**](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) from CPSF
 - *2022* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
 - *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
