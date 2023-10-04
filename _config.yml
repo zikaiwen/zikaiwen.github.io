@@ -24,11 +24,11 @@ author:
   name             : "Dr. Zikai Alex Wen"
   avatar           : "images/headshot.jpeg"
   bio              : "a.k.a. 温子剀, Zikai Wen"
-  location         : "Guangzhou, China"
+  location         : # "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=apCH14IAAAAJ"
-  email            : "zikaiwen [at] ust.hk"
+  email            : "zikaiwen [at] Gmail [dot] com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
