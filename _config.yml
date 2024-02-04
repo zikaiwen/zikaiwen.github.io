@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zikai Alex Wen, Ph.D."
-description              : "S&P and HCI Postdoc @ HKUST(GZ)"
+description              : "Human-centered Computing Researcher"
 repository               : "zikaiwen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=apCH14IAAAAJ"
-  email            : "zikaiwen [at] Gmail [dot] com"
+  email            : "zikaiwen [at] Gmail [dot] Com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
