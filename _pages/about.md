@@ -86,7 +86,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | :-----: | ------ | --------- | -------- |
-| **AIS&P'23** | [Email Reading Behavior-informed Machine Learning Model to Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan，**Zikai Alex Wen\*** | Security |
+| **AIS&P'23** | [Email Reading Behavior-informed Machine Learning Model to Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan，**Zikai Wen\*** | Security |
 | **INFOSCI'23** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, [Hongyang Yan](https://www.researchgate.net/profile/Hongyang-Yan), [Yaxing Yao](http://yaxingyao.com/), [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | Privacy |
 | **VIS EA'23** | [Time Walk: Blending Presence and History through AR Visualization](articles/waitime23.pdf) |  [Wai Tong](https://wtong2017.github.io/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\***, [Huamin Qu](http://huamin.org/) | Gaming |
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | [Danlu Fei](http://cma.hkust-gz.edu.cn/research-students/danlu-fei-6/), [Ze Gao](https://www.zegaoart.com/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | EdTech, Gaming |
