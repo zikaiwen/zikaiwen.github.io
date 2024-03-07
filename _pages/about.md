@@ -19,12 +19,12 @@ redirect_from:
 
 Hi, there! I am a researcher in human-centered computing committed to improving how **young users** (i.e., children, teenagers, and special education students) engage with **AI agents**. My research homes on two critical challenges: (1) safeguarding usable privacy and security in AI interactions and (2) dismantling barriers to AI accessibility for learners with neurodevelopmental disabilities. By focusing on these pivotal areas, I aim to create more engaging, inclusive, and safe AI agents that cater to the unique needs of our younger generation. My research has been published at prestigious CS conferences such as ACM CHI, ACM ASSETS, ACM CCS, and IEEE S&P. 
 
-I am fortunate to have finished my postdoctoral fellow training at CMA Thrust, the Hong Kong University of Science and Technology (Guangzhou); affiliated with [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html) supervised by [Prof. Huamin Qu](http://www.huamin.org/#groupmember). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
+I am a postdoctoral research at [Computer Science, Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 <!--I am fortunate to have worked with [Prof. Shiri Azenkot](https://tech.cornell.edu/people/shiri-azenkot/), [Prof. Erik Andersen](http://www.cs.cornell.edu/~eland/), [Prof. Elaine Shi](http://elaineshi.com/), and [Prof. Changyu Dong](https://changyudong.site/).  -->
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2023. Please submit your amazing work here!](https://chi2024.acm.org/for-authors/)
+- *2023.08*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2024. Please submit your amazing work here!](https://chi2024.acm.org/for-authors/)
 - *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en)
 - *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](https://www.sciencedirect.com/science/article/abs/pii/S0020025523003201)
 - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
@@ -35,7 +35,7 @@ I am fortunate to have finished my postdoctoral fellow training at CMA Thrust, t
 
 Symbol \* indicates that I am the (co-)corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOSCI</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFS Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) in Information Sciences, Sep. 2023.
@@ -86,8 +86,8 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | :-----: | ------ | --------- | -------- |
+| **INFS Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, [Hongyang Yan](https://www.researchgate.net/profile/Hongyang-Yan), [Yaxing Yao](http://yaxingyao.com/), [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | Privacy |
 | **AIS&P'23** | [Email Reading Behavior-informed Machine Learning Model to Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan，**Zikai Wen\*** | Security |
-| **INFOSCI'23** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, [Hongyang Yan](https://www.researchgate.net/profile/Hongyang-Yan), [Yaxing Yao](http://yaxingyao.com/), [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | Privacy |
 | **VIS EA'23** | [Time Walk: Blending Presence and History through AR Visualization](articles/waitime23.pdf) |  [Wai Tong](https://wtong2017.github.io/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\***, [Huamin Qu](http://huamin.org/) | Gaming |
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | [Danlu Fei](http://cma.hkust-gz.edu.cn/research-students/danlu-fei-6/), [Ze Gao](https://www.zegaoart.com/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | EdTech, Gaming |
 | **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, [Haihan Duan](https://seaxiaod.gitee.io), **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | Gaming |
