@@ -74,7 +74,7 @@ Symbol \* indicates that I am the (co-)corresponding author.
 
 **Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
 
-**Pointers:** [Game](https://www.cs.cornell.edu/~zkwen/whatdothack)
+<!--**Pointers:** [Game](https://www.cs.cornell.edu/~zkwen/whatdothack)-->
 
 </div>
 </div>
