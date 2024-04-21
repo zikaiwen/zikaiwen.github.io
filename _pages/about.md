@@ -22,10 +22,12 @@ Hi, there! I'm a human-centered computing researcher passionate about creating *
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 [I'm co-organizing a SOUPS workshop on revolutionizing privacy education by tools and experiences design. Submit by 5/23!](https://spei2024.github.io/)
+- *2024.03*: &nbsp;🎉🎉 [Join my BBL Talk at HCIL UMD, April 18, 12:30 PM ET, on designing safe, engaging teen-AI interactions!](https://hcil.umd.edu/bbl-speaker-series/)
 - *2023.08*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2024. Please submit your amazing work here!](https://chi2024.acm.org/for-authors/)
 - *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en)
-- *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](https://www.sciencedirect.com/science/article/abs/pii/S0020025523003201)
-- *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/)
+<!-- - *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](https://www.sciencedirect.com/science/article/abs/pii/S0020025523003201) -->
+<!-- - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) -->
 <!-- - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/) -->
  <!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
 
