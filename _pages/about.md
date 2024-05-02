@@ -33,7 +33,7 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 
 # 📝 Selected Publications 
 
-Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I mentored.
+Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I mentor.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFS Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
