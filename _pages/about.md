@@ -38,7 +38,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFS Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) in Information Sciences, Sep. 2023.
+[The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](https://www.sciencedirect.com/science/article/pii/S0020025523003201) in Information Sciences, Sep. 2023.
 
 **Authors:** **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, Yaxing Yao, Zheli Liu, Changyu Dong
 
@@ -50,7 +50,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS&P'23</div><img src='images/phishing-detect-flowchart.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Email Reading Behavior-Informed Machine Learning Model to Predict Phishing Susceptibility](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) in the proceedings of the International Conference on Artificial Intelligence Security and Privacy (AIS&P), 2023.
+[Email Reading Behavior-Informed Machine Learning Model to Predict Phishing Susceptibility](https://link.springer.com/chapter/10.1007/978-981-99-9785-5_40) in the proceedings of the International Conference on Artificial Intelligence Security and Privacy (AIS&P), 2023.
 
 **Authors:** Ning Xu^, Jiluan Fan^, **Zikai Wen\***
 
@@ -78,7 +78,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'19</div><img src='images/whathackpaper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Phishing Simulation Game](articles/wenwhatdothack19.pdf) in the proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019.
+[What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Phishing Simulation Game](https://dl.acm.org/doi/10.1145/3290605.3300338) in the proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019.
 
 **Authors:** **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, Erik Andersen
 
