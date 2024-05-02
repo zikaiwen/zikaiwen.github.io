@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zikai Alex Wen, Ph.D."
-description              : "Human-centered Computing Researcher"
+description              : "HCI & Privacy Researcher"
 repository               : "zikaiwen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Dr. Zikai Alex Wen"
   avatar           : "images/headshot.jpeg"
   bio              : "a.k.a. 温子剀, Zikai Wen"
-  location         : # "Guangzhou, China"
+  location         : "Blacksburg, Virginia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=apCH14IAAAAJ"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "alexwzk"
   vine             :
   weibo            :
   xing             :

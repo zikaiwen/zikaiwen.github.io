@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! I'm a human-centered computing researcher passionate about creating **safe and engaging Adolescent-AI Interactions**. My mission is to enhance the way adolescents (i.e., teenagers and special education students) engage with AI. I focus on two main goals: (1) protecting their privacy and security during AI interactions, and (2) making AI more accessible for neurodiverse individuals. To promote safe usage and help articulate their accessibility challenges, I employ game design and gamification strategies. This dual focus and innovative approach drive my work toward developing AI agents that are not only safer but also more inclusive, to meet the unique needs of our younger generation! My research has been published at prestigious CS conferences such as ACM CHI, ACM ASSETS, ACM CCS, and IEEE S&P.
+Hi there! I’m a researcher in **human-computer interaction (HCI) and privacy**. I am dedicated to improving how users, especially adolescents, interact with emerging communication technologies like AI agents, social VR, and short video platforms. My work aims to achieve two main objectives: (1) safeguard user privacy and autonomy from sneaky attack vectors, and (2) design engaging educational tools that empower users to actively protect themselves. By combining user-centered design with advanced privacy frameworks, I strive to ensure that people, especially adolescents, can safely navigate cutting-edge digital environments. My research has been published at prestigious conferences and journals such as ACM CHI, Information Sciences, ACM CCS, and IEEE S&P.
 
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
@@ -33,7 +33,7 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 
 # 📝 Selected Publications 
 
-Symbol \* indicates that I am the (co-)corresponding author.
+Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I mentored.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFS Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,6 +47,19 @@ Symbol \* indicates that I am the (co-)corresponding author.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS&P'23</div><img src='images/phishing-detect-flowchart.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Email Reading Behavior-Informed Machine Learning Model to Predict Phishing Susceptibility](https://dl.acm.org/doi/abs/10.1145/3505270.3558318) in the proceedings of the International Conference on Artificial Intelligence Security and Privacy (AIS&P), 2023.
+
+**Authors:** Ning Xu^, Jiluan Fan^, **Zikai Wen\***
+
+**Abstract:** As phishing threats intensify, our research develops innovative anti-phishing solutions using machine learning and eye-tracking, specifically the TransMLP Hybrid model that achieves an 88.75% accuracy rate. This model not only proactively alerts users to potential scams in real-time but also ensures consistent interpretation of eye-tracking data across various email interfaces and displays.
+
+</div>
+</div>
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI Play EA'22</div><img src='images/collectiar.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,12 +71,9 @@ Symbol \* indicates that I am the (co-)corresponding author.
 
 **Pointers:** [Presentation](https://youtu.be/5kLCCoV4r1I)
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-<!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-<!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'19</div><img src='images/whathackpaper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
