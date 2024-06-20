@@ -35,7 +35,7 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 
 Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I mentor.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFS Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCI Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](https://www.sciencedirect.com/science/article/pii/S0020025523003201) in Information Sciences, Sep. 2023.
@@ -96,9 +96,9 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 | Venue   | Title  | Author(s) | Theme(s) | 
 | :-----: | ------ | --------- | -------- |
-| **INFS Journal** | [DPGazeSynth: Enhancing eye-tracking virtual reality privacy with differentially private data synthesis](articles/ren24dpgazesynth.pdf) | Xiaojun Ren, Jiluan Fan, Ning Xu, Shaowei Wang, [Changyu Dong](https://changyudong.site/), **Zikai Wen\*** | Privacy |
+| **ISCI Journal** | [DPGazeSynth: Enhancing eye-tracking virtual reality privacy with differentially private data synthesis](articles/ren24dpgazesynth.pdf) | Xiaojun Ren, Jiluan Fan, Ning Xu, Shaowei Wang, [Changyu Dong](https://changyudong.site/), **Zikai Wen\*** | Privacy |
 | **AIS&P'23** | [Email Reading Behavior-informed Machine Learning Model to Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan, **Zikai Wen\*** | Security |
-| **INFS Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, [Yaxing Yao](http://yaxingyao.com/), Zheli Liu, [Changyu Dong](https://changyudong.site/) | Privacy |
+| **ISCI Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, [Yaxing Yao](http://yaxingyao.com/), Zheli Liu, [Changyu Dong](https://changyudong.site/) | Privacy |
 | **VIS EA'23** | [Time Walk: Blending Presence and History through AR Visualization](articles/waitime23.pdf) |  [Wai Tong](https://wtong2017.github.io/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\***, [Huamin Qu](http://huamin.org/) | Gaming |
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | Danlu Fei, Ze Gao, [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | EdTech, Gaming |
 | **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, [Haihan Duan](https://duanhaihan.github.io/), **Zikai Alex Wen**, [Wei Cai](https://mypage.cuhk.edu.cn/academics/caiwei/) | Gaming |
@@ -113,7 +113,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 | **CCS'13** | [When Private Set Intersection Meets Big Data: an Efficient and Scalable Protocol](articles/dongpsi13.pdf) | [Changyu Dong](https://changyudong.site/), [Liqun Chen](https://www.surrey.ac.uk/people/liqun-chen), **Zikai Wen** | Privacy |
 
 
-# 🎖 Honors and Awards
+# 🎖 Awards and Grants
 - *2023* [**The e-Learning Ancillary Facilities Program Grantee (30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from QEF, Hong Kong
 - *2022* [**The Fellowship of China Postdoctoral Science Foundation**](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) from CPSF
 - *2022* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
