@@ -115,8 +115,8 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 
 # 🎖 Awards and Grants
-- *2023* [**The e-Learning Ancillary Facilities Program Grantee (30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from QEF, Hong Kong
-- *2022* [**The Fellowship of China Postdoctoral Science Foundation**](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) from CPSF
+- *2023* [**The E-learning Ancillary Facilities Grant Co-investigator ($30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from QEF, Hong Kong
+- *2022* [**The Fellowship of China Postdoctoral Science Foundation ($80K RMB)**](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) from CPSF, China
 - *2022* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
 - *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
 - *2017* **The Student Game Design Competition Runner-Up** at ACM CHI 
