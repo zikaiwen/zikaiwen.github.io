@@ -98,6 +98,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 | Venue   | Title  | Author(s) | Theme(s) | 
 | :-----: | ------ | --------- | -------- |
 | **ISCI Journal** | [DPGazeSynth: Enhancing eye-tracking virtual reality privacy with differentially private data synthesis](articles/ren24dpgazesynth.pdf) | Xiaojun Ren, Jiluan Fan, Ning Xu, Shaowei Wang, [Changyu Dong](https://changyudong.site/), **Zikai Wen\*** | Privacy |
+| **VLDB'24** | [Privacy Amplification via Shuffling: Unified, Simplified, and Tightened](articles/wangprivacy24.pdf) | [Shaowei Wang](https://orcid.org/0000-0003-1577-1193), Yun Peng, Jin Li, **Zikai Wen**, Zhipeng Li, Shiyu Yu, [Di Wang](https://shao3wangdi.github.io/), Wei Yang | Privacy | 
 | **AIS&P'23** | [Email Reading Behavior-informed Machine Learning Model to Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan, **Zikai Wen\*** | Security |
 | **ISCI Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, [Yaxing Yao](http://yaxingyao.com/), Zheli Liu, [Changyu Dong](https://changyudong.site/) | Privacy |
 | **VIS EA'23** | [Time Walk: Blending Presence and History through AR Visualization](articles/waitime23.pdf) |  [Wai Tong](https://wtong2017.github.io/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\***, [Huamin Qu](http://huamin.org/) | Gaming |
