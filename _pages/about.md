@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a **human-computer interaction (HCI)** researcher with a robust focus on challenges in **usable privacy and security**. My research is dedicated to protecting users, particularly adolescents, as they interact with communication technologies such as social media, emails, and AI agents. My work is driven by two pivotal goals: (1) enhancing users' digital privacy and security and (2) equipping users with the knowledge for self-protection in the digital world. I employ the user-centered design method and advanced privacy frameworks to achieve my goals. My research has been published in leading computer science conferences and journals such as ACM CHI, Information Sciences, ACM CCS, and IEEE S&P.
+Hi there! I am a **human-computer interaction (HCI)** researcher with a robust focus on challenges in **usable privacy and security**. My research is dedicated to protecting users, particularly adolescents, as they interact with communication tech such as social media, emails, and AI agents. My work is driven by two goals: (1) enhancing users' digital privacy and security and (2) equipping users with the knowledge for self-protection in the digital world. I employ the user-centered research method and theoretical privacy frameworks to achieve my goals. My research has been published in leading computer science conferences and journals such as ACM CHI, Information Sciences, ACM CCS, and IEEE S&P.
 
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
+
+- *2024.08*: &nbsp;🎉🎉 [I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy!](https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024)
 - *2024.07*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!](https://chi2025.acm.org/for-authors/)
 - *2024.04*: &nbsp;🎉🎉 [I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!](https://spei2024.github.io/)
-- *2023.06*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en)
+- *2023.07*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en)
 <!--- *2024.03*: &nbsp;🎉🎉 [Join my BBL Talk at HCIL UMD, April 18, 12:30 PM ET, on designing safe, engaging teen-AI interactions!](https://hcil.umd.edu/bbl-speaker-series/)
 -->
 <!-- - *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](https://www.sciencedirect.com/science/article/abs/pii/S0020025523003201) -->
@@ -116,9 +118,9 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 
 # 🎖 Awards and Grants
+- *2024* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
 - *2023* [**The E-learning Ancillary Facilities Grant Co-investigator ($30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from QEF, Hong Kong
-- *2022* [**The Fellowship of China Postdoctoral Science Foundation ($80K RMB)**](http://jj.chinapostdoctor.org.cn/website/userfiles/info/fujian/20221125/b8a70c40-b590-48ca-a382-14a3db2358f0.pdf) from CPSF, China
-- *2022* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
+- *2022* [**The Fellowship of China Postdoctoral Science Foundation ($80K RMB)**](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) from CPSF, China
 - *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
 - *2017* **The Student Game Design Competition Runner-Up** at ACM CHI 
 - *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
