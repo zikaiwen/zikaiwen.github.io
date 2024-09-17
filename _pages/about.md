@@ -22,7 +22,7 @@ Hi there! I am a **human-computer interaction (HCI)** researcher specializing in
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 **I am seeking a tenure-track position in computer science, information science, communication, or a related field!**
+- *2024.09*: &nbsp;🎉🎉 **I am seeking a tenure-track position in cybersecurity, computer science, information science, or a related field!**
 - *2024.08*: &nbsp;🎉🎉 [I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy!](https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024)
 - *2024.07*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!](https://chi2025.acm.org/for-authors/)
 - *2024.04*: &nbsp;🎉🎉 [I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!](https://spei2024.github.io/)
