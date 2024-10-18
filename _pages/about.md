@@ -59,6 +59,8 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 
 **Abstract:** As phishing threats intensify, our research develops innovative anti-phishing solutions using machine learning and eye-tracking, specifically the TransMLP Hybrid model that achieves an 88.75% accuracy rate. This model not only proactively alerts users to potential scams in real-time but also ensures consistent interpretation of eye-tracking data across various email interfaces and displays.
 
+**Pointers:** [Github](https://github.com/zikaiwen/EmailEye-PhishPredict)
+
 </div>
 </div>
 
@@ -87,7 +89,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 
 **Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
 
-<!-- **Pointers:** [Game](https://www.cs.cornell.edu/~zkwen/whatdothack) -->
+**Pointers:** [Game](http://research.zkwen.site/whatdothack/)
 
 </div>
 </div>
