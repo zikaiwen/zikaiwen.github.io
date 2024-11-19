@@ -23,7 +23,7 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 **<span style="color: green;">I am on the academic job market for faculty positions!</span>**
-- *2024.10*: &nbsp;🎉🎉 [Join my seminar talk at Virginia Tech, Oct 25, on transforming cybersecurity education with games and visual tech!](https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html)
+- *2024.10*: &nbsp;🎉🎉 [Join my Oct 25 Virginia Tech talk on adaptive games & interactive media for privacy & security!](https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html)
 - *2024.08*: &nbsp;🎉🎉 [I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy!](https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024)
 - *2024.07*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!](https://chi2025.acm.org/for-authors/)
 - *2024.04*: &nbsp;🎉🎉 [I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!](https://spei2024.github.io/)
