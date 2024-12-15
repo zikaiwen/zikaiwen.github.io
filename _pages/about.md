@@ -17,12 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a **human-computer interaction (HCI)** researcher specializing in **usable privacy and security**. I aim to help users enhance their anti-deception capabilities and digital resilience, enabling more empowering and enjoyable online communication. My research focuses on two main areas: (1) designing video games and interactive media to make cybersecurity education more engaging and (2) optimizing and developing privacy-enhancing technologies to improve the usability of digital privacy measures. My research has been published in leading computer and information science venues including ACM CHI, Information Sciences, ACM CCS, and IEEE S&P.
+Hi there! As a **human-computer interaction (HCI)** researcher specializing in **usable privacy and security**, I advance digital safety in cyber ecosystems through human-centered methods. I focus on two complementary areas: digital safety education and human-AI safety engineering. In **digital safety education**, I design and evaluate evidence-based learning interventions using games and interactive media to enhance privacy literacy and cybersecurity awareness. In **human-AI safety engineering**, I investigate socio-technical approaches to privacy preservation in AI systems and develop resilient defensive mechanisms against AI-enabled social engineering attacks. By integrating computer science and developmental psychology, I work to strengthen human capabilities in cybersecurity. My research has been published in leading research venues including ACM CHI, Information Sciences, ACM CCS, and IEEE S&P. More specifically, my recent research projects include:
+
+- Developing evidence-based games and interactive media for digital safety education;
+- Investigating privacy preservation mechanisms and user mental models of privacy in AI systems;
+- Designing and evaluating defensive strategies against AI-enabled social engineering attacks.
 
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 **<span style="color: green;">I am on the academic job market for faculty positions!</span>**
+- *2024.10*: &nbsp;🎉🎉 **<span style="color: green;">I am on the academic job market for a faculty position!</span>**
 - *2024.10*: &nbsp;🎉🎉 [Join my Oct 25 Virginia Tech talk on adaptive games & interactive media for privacy & security!](https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html)
 - *2024.08*: &nbsp;🎉🎉 [I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy!](https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024)
 - *2024.07*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!](https://chi2025.acm.org/for-authors/)
