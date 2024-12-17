@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm a **human-computer interaction (HCI)** researcher focuses on the areas of **usable privacy and security**. My goal is to make safe and reliable cyber ecosystems through a human-centered approach. My research explores two key areas: digital safety education and human-AI interaction safety. Through education, I study how users learn and apply cybersecurity and privacy concepts; these behavioral patterns and learning insights inform the development of defensive mechanisms against AI-enabled attacks that exploit human behavior. In turn, discoveries about new attack vectors and effective defenses enhance the educational content, creating an evidence-based curriculum that enhances users' ability to protect themselves. By integrating computer science and developmental psychology, my research builds a feedback loop where education and defense reinforce each other to strengthen human digital safety. My research has been published in leading conferences and journals such as ACM CHI, Information Sciences, and ACM CCS. More specifically, my recent research projects include:
-
-- Developing evidence-based games and interactive media for digital safety education;
-- Investigating privacy preservation mechanisms and user mental models of privacy in AI systems;
-- Designing and evaluating defensive strategies against AI-enabled social engineering attacks.
+Hi there! I am a **human-computer interaction (HCI)** researcher focusing on **usable privacy and security** in the age of AI. I aim to empower users to confidently manage their security and privacy in an increasingly AI-driven world. Through research on education and defensive mechanisms, I uphold the principle of **user autonomy**, enabling individuals to make informed decisions about their security and privacy while leveraging appropriate automated support. My research focuses on designing evidence-based digital safety education resources to improve users' security and privacy literacy, and developing defensive mechanisms against AI-driven attacks and privacy breaches. My research has been published in leading conferences and journals such as ACM CHI, Information Sciences, and ACM CCS. 
 
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
@@ -145,4 +141,11 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 <!--| **SOUPS EA'22** | [New Differential Privacy Communication Pipeline and Design Framework](articles/jiadpcommunication22.pdf) | Jingyu Jia, **Zikai Alex Wen\***, [Zheli Liu](https://cc.nankai.edu.cn/2019/0515/c15392a183642/page.htm), [Changyu Dong](https://changyudong.site/) | S&P, HCI | -->
 <!--| **ASSETS EA'22** | [Designing a Data Visualization Dashboard for Pre-Screening Hong Kong Students with Specific Learning Disabilities](articles/fungdashboard22.pdf) | Ka Yan Fung, **Zikai Alex Wen\***, [Haotian Li](https://haotian-li.com/), [Xingbo Wang](https://andy-xingbowang.com/), [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/) | HCI |-->
 <!--| **ASSETS EA'22** | [Designing a Game for Pre-Screening Students with Specific Learning Disabilities in Chinese](articles/funggame22.pdf) | Ka Yan Fung, Kuen Fung Sin, **Zikai Alex Wen**, Lik-Hang Lee, [Shenghui Song](https://eeshsong.home.ece.ust.hk/), [Huamin Qu](http://huamin.org/)| HCI|
+-->
+
+<!-- More specifically, my recent research projects include:
+
+- Developing evidence-based games and interactive media for digital safety education;
+- Investigating privacy preservation mechanisms and user mental models of privacy in AI systems;
+- Designing and evaluating defensive strategies against AI-enabled social engineering attacks.
 -->
