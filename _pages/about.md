@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! I am a **human-computer interaction (HCI)** researcher focusing on **usable privacy and security** in the age of AI. I aim to empower users to confidently manage their security and privacy in an increasingly AI-enabled world. Through research on education and defensive mechanisms, I uphold the principle of **user autonomy**, enabling individuals to make informed decisions about their security and privacy while leveraging appropriate AI support. My research focuses on designing evidence-based digital safety education resources to improve users' security and privacy literacy, and developing defensive mechanisms against AI-enabled attacks and privacy breaches. My research has been published in leading conferences and journals such as ACM CHI, Information Sciences, and ACM CCS. 
 
-I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](http://yaxingyao.com/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
+I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](https://yaxingyao.cs.vt.edu/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 **<span style="color: green;">I am on the academic job market for a faculty position!</span>**
@@ -89,7 +89,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 
 **Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
 
-**Pointer:** [Game](http://research.zkwen.site/whatdothack/)
+**Pointer:** [Game](https://research.zkwen.site/whatdothack/)
 
 </div>
 </div>
@@ -104,7 +104,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 | **ISCI Journal** | [DPGazeSynth: Enhancing Eye-Tracking Virtual Reality Privacy With Differentially Private Data Synthesis](articles/ren24dpgazesynth.pdf) | Xiaojun Ren, Jiluan Fan, Ning Xu, Shaowei Wang, [Changyu Dong](https://changyudong.site/), **Zikai Wen\*** | Privacy |
 | **VLDB'24** | [Privacy Amplification via Shuffling: Unified, Simplified, and Tightened](articles/wangprivacy24.pdf) | Shaowei Wang, Yun Peng, Jin Li, **Zikai Wen**, Zhipeng Li, Shiyu Yu, [Di Wang](https://shao3wangdi.github.io/), Wei Yang | Privacy | 
 | **AIS&P'23** | [Email Reading Behavior-Informed Machine Learning Model To Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan, **Zikai Wen\*** | Security |
-| **ISCI Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, [Yaxing Yao](http://yaxingyao.com/), Zheli Liu, [Changyu Dong](https://changyudong.site/) | Privacy |
+| **ISCI Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, [Yaxing Yao](https://yaxingyao.cs.vt.edu/), Zheli Liu, [Changyu Dong](https://changyudong.site/) | Privacy |
 | **VIS EA'23** | [Time Walk: Blending Presence and History through AR Visualization](articles/waitime23.pdf) |  [Wai Tong](https://wtong2017.github.io/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\***, [Huamin Qu](http://huamin.org/) | Gaming |
 | **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | Danlu Fei, Ze Gao, [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | EdTech, Gaming |
 | **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, Haihan Duan, **Zikai Alex Wen**, [Wei Cai](https://faculty.washington.edu/weicaics/index.html) | Gaming |
