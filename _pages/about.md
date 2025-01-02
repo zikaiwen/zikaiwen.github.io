@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a **human-computer interaction (HCI)** researcher focusing on **usable privacy and security** in the age of AI. I aim to empower users to confidently manage their security and privacy in an increasingly AI-enabled world. Through research on education and defensive mechanisms, I uphold the principle of **user autonomy**, enabling individuals to make informed decisions about their security and privacy while leveraging appropriate AI support. My research focuses on designing evidence-based digital safety education resources to improve users' security and privacy literacy, and developing defensive mechanisms against AI-enabled attacks and privacy breaches. My research has been published in leading conferences and journals such as ACM CHI, Information Sciences, and ACM CCS. 
+Hi there! I am a **human-computer interaction (HCI)** researcher specializing in **usable privacy and security**. I believe that in today's increasingly complex cyberspace, users deserve to feel safe and empowered in managing their privacy and security. My research advances **user autonomy** principles in this space through three core areas: 1) designing evidence-based digital safety education resources to improve users' security and privacy literacy, 2) developing defensive mechanisms against AI-enabled threats, and 3) enabling users to make informed decisions about their security and privacy while leveraging appropriate AI support. My research has been published in leading conferences and journals such as ACM CHI, Information Sciences, and ACM CCS.
 
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](https://yaxingyao.cs.vt.edu/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my joint First-class Honours bachelor degree in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
@@ -120,7 +120,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 # 🎖 Awards and Grants
 - *2024* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
-- *2023* [**The E-learning Ancillary Facilities Grant Co-investigator ($30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from QEF, Hong Kong
+- *2023* [**The E-learning Ancillary Facilities Grant Co-investigator ($30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from Quality Education Fund
 - *2022* [**The Fellowship of China Postdoctoral Science Foundation ($80K RMB)**](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) from CPSF, China
 - *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
 - *2017* **The Student Game Design Competition Runner-Up** at ACM CHI 
