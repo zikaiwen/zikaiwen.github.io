@@ -17,42 +17,97 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there! I am a **human-computer interaction (HCI)** researcher specializing in **usable privacy and security**. As privacy and security technologies advance, they often prioritize automation. This leaves users passively accepting protection measures they neither fully understand nor can verify. I believe that **user autonomy** should be fundamental to privacy and security management in today's complex cyberspace, with technology as a supporting tool. My research advances user autonomy principles through three core areas: 1) designing evidence-based digital safety educational games, 2) developing human-centered defenses against AI-enabled threats, and 3) enabling informed decisions with appropriate AI support. My research has been published in leading venues including ACM CHI, ACM CCS, and Information Sciences.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](https://yaxingyao.cs.vt.edu/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my first-class honours bachelor degrees in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 **<span style="color: green;">I am on the academic job market for a faculty position!</span>**
+- *2024.10*: &nbsp;🎉🎉 [Join my Oct 25 Virginia Tech talk on interactive gaming & intelligent agent systems for privacy & security!](https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html)
+- *2024.08*: &nbsp;🎉🎉 [I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in security and privacy!](https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024)
+- *2024.07*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!](https://chi2025.acm.org/for-authors/)
+- *2024.04*: &nbsp;🎉🎉 [I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!](https://spei2024.github.io/)
 
-# 📝 Publications 
+<!-- - *2023.07*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en) -->
+<!-- - *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](https://www.sciencedirect.com/science/article/abs/pii/S0020025523003201) -->
+<!-- - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) -->
+<!-- - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/) -->
+ <!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications 
+
+Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I mentor.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCI Journal</div><img src='images/dpposter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-Sharing Decision](https://www.sciencedirect.com/science/article/pii/S0020025523003201) in Information Sciences, Sep. 2023.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Authors:** **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, Yaxing Yao, Zheli Liu, Changyu Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Highlights:** Our explanatory illustration design simplifies the understanding of differential privacy protection of numerical data. A survey of 228 people shows visual illustration outperformed text-based explanation in understanding differential privacy. Learning about privacy-enhancing technology does not necessarily increase the willingness to share data.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS&P'23</div><img src='images/phishing-detect-flowchart.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Email Reading Behavior-Informed Machine Learning Model to Predict Phishing Susceptibility](https://link.springer.com/chapter/10.1007/978-981-99-9785-5_40) in the proceedings of the International Conference on Artificial Intelligence Security and Privacy (AIS&P), 2023.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Authors:** Ning Xu^, Jiluan Fan^, **Zikai Wen\***
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Abstract:** As phishing threats intensify, our research develops innovative anti-phishing solutions using machine learning and eye-tracking, specifically the TransMLP Hybrid model that achieves an 88.75% accuracy rate. This model not only proactively alerts users to potential scams in real-time but also ensures consistent interpretation of eye-tracking data across various email interfaces and displays.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Pointer:** [Github](https://github.com/zikaiwen/EmailEye-PhishPredict)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'19</div><img src='images/whathackpaper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Phishing Simulation Game](https://dl.acm.org/doi/10.1145/3290605.3300338) in the proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019.
+
+**Authors:** **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, Erik Andersen
+
+**Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
+
+**Pointer:** [Game](https://research.zkwen.site/whatdothack/)
+
+</div>
+</div>
+
+# 📖 Full Publications
+
+Symbol \* indicates that I am the (co-)corresponding author. My current citation status is: <a href='https://scholar.google.com/citations?user=apCH14IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+    
+
+| Venue   | Title  | Author(s) | Theme(s) | 
+| :-----: | ------ | --------- | -------- |
+| **ISCI Journal** | [DPGazeSynth: Enhancing Eye-Tracking Virtual Reality Privacy With Differentially Private Data Synthesis](articles/ren24dpgazesynth.pdf) | Xiaojun Ren, Jiluan Fan, Ning Xu, Shaowei Wang, [Changyu Dong](https://changyudong.site/), **Zikai Wen\*** | Privacy |
+| **VLDB'24** | [Privacy Amplification via Shuffling: Unified, Simplified, and Tightened](articles/wangprivacy24.pdf) | Shaowei Wang, Yun Peng, Jin Li, **Zikai Wen**, Zhipeng Li, Shiyu Yu, [Di Wang](https://shao3wangdi.github.io/), Wei Yang | Privacy | 
+| **AIS&P'23** | [Email Reading Behavior-Informed Machine Learning Model to Predict Phishing Susceptibility](articles/xuemail23.pdf) | Ning Xu, Jiluan Fan, **Zikai Wen\*** | Security |
+| **ISCI Journal** | [The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-Sharing Decision](articles/weninfluence23.pdf) | **Zikai Alex Wen**, Jingyu Jia, Hongyang Yan, [Yaxing Yao](https://yaxingyao.cs.vt.edu/), Zheli Liu, [Changyu Dong](https://changyudong.site/) | Privacy |
+| **VIS EA'23** | [Time Walk: Blending Presence and History through AR Visualization](articles/waitime23.pdf) |  [Wai Tong](https://wtong2017.github.io/), [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\***, [Huamin Qu](http://huamin.org/) | Gaming |
+| **CHI Play EA'22** | [CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia](articles/feicollectiar22.pdf) | Danlu Fei, Ze Gao, [Linping Yuan](http://yuanlinping.top/), **Zikai Alex Wen\*** | EdTech, Gaming |
+| **IEEE GEM'22** | [What Features Influence Impact Feel? A Study of Impact Feedback in Action Games](articles/linfeatures22.pdf)  | Zhonghao Lin, Haihan Duan, **Zikai Alex Wen**, [Wei Cai](https://faculty.washington.edu/weicaics/index.html) | Gaming |
+| **IEEE GEM'22** | [Understanding the Challenges of Team-Based Live Streaming for First-Person Shooter Games](articles/liunderstanding22.pdf)  | Jiaye Li, Minghao Li, **Zikai Alex Wen**, [Wei Cai](https://faculty.washington.edu/weicaics/index.html) | Gaming |
+| **ASSETS EA'21** | [An Intelligent Math E-Tutoring System for Students with Specific Learning Disabilities](articles/wenmath21.pdf) | **Zikai Alex Wen**, [Yuhang Zhao](https://www.yuhangz.com/), Erica Silverstein, Shiri Azenkot | EdTech, Gaming |
+| **ASSETS'20** | [Teacher Views of Math E-Learning Tools for Students with Specific Learning Disabilities](articles/wenteacher20.pdf) | **Zikai Alex Wen**, Erica O Silverstein, [Yuhang Zhao](https://www.yuhangz.com/), Anjelika Lynne S Amog, [Katherine Garnett](https://education.hunter.cuny.edu/about/faculty-staff/kate-garnett/), Shiri Azenkot | EdTech |
+| **ASSETS EA'19** | [Teacher Perspectives on Math E-Learning Tools for Students with Specific Learning Disabilities](articles/wenteacher20.pdf) | **Zikai Alex Wen**, Anjelika Lynne S Amog, Shiri Azenkot, [Katherine Garnett](https://education.hunter.cuny.edu/about/faculty-staff/kate-garnett/) | EdTech |
+| **CHI'19** | [What.Hack: Engaging Anti-Phishing Training Through a Role-Playing Cyber Defense Simulation Game](articles/wenwhatdothack19.pdf) | **Zikai Alex Wen**, [Zhiqiu Lin](https://linzhiqiu.github.io/), Rowena Chen, [Erik Andersen](http://www.cs.cornell.edu/~eland/) | Security, EdTech, Gaming |
+| **CHI EA'17** | [What.Hack: Learn Phishing Email Defence the Fun Way](articles/wenwhatdothack19.pdf) | **Zikai Alex Wen\***, Yiming Li, Reid Wade, Jeffrey Huang, Amy Wang | Security, EdTech, Gaming | 
+| **S&P'16** | [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](articles/kosbahawk16.pdf) | [Ahmed Kosba](https://akosba.github.io/), [Andrew Miller](https://soc1024.ece.illinois.edu/), [Elaine Shi](http://elaineshi.com/), **Zikai Wen**, [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/) | Privacy |
+| **SAC'14** | [Efficient Protocols for Private Record Linkage](articles/wenprl14.pdf) | **Zikai Wen**, [Changyu Dong](https://changyudong.site/) | Privacy |
+| **CCS'13** | [When Private Set Intersection Meets Big Data: an Efficient and Scalable Protocol](articles/dongpsi13.pdf) | [Changyu Dong](https://changyudong.site/), Liqun Chen, **Zikai Wen** | Privacy |
+
+# 🎖 Awards and Grants
+- *2024* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
+- *2023* [**The E-Learning Ancillary Facilities Grant Co-Investigator ($30 Million HKD)**](https://elafp.edb.edcity.hk/projects.php?lang=en) from Quality Education Fund
+- *2022* [**The Fellowship of China Postdoctoral Science Foundation ($80K RMB)**](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) from CPSF
+- *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
+- *2017* **The Student Game Design Competition Runner-Up** at ACM CHI 
+- *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
+- *2014* **The Outstanding Graduate of Beijing** from Beijing Municipal Education Commission
+
