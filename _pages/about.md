@@ -57,7 +57,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 
 **Authors:** Ning Xu^, Jiluan Fan^, **Zikai Wen\***
 
-**Abstract:** As phishing threats intensify, our research develops innovative anti-phishing solutions using machine learning and eye-tracking, specifically the TransMLP Hybrid model that achieves an 88.75% accuracy rate. This model not only proactively alerts users to potential scams in real-time but also ensures consistent interpretation of eye-tracking data across various email interfaces and displays.
+**Highlights:** As phishing threats intensify, our research develops innovative anti-phishing solutions using machine learning and eye-tracking, specifically the TransMLP Hybrid model that achieves an 88.75% accuracy rate. This model not only proactively alerts users to potential scams in real-time but also ensures consistent interpretation of eye-tracking data across various email interfaces and displays.
 
 **Pointer:** [Github](https://github.com/zikaiwen/EmailEye-PhishPredict)
 
@@ -71,7 +71,7 @@ Symbol \* indicates the corresponding authorship; Symbol ^ indicates a student I
 
 **Authors:** **Zikai Alex Wen**, Zhiqiu Lin, Rowena Chen, Erik Andersen
 
-**Abstract:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
+**Highlights:** People being phished is due in part to insufficient and tiresome user training in cybersecurity. we designed the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a role-playing game to encourage the player to practice defending themselves.
 
 **Pointer:** [Game](https://research.zkwen.site/whatdothack/)
 
@@ -110,4 +110,3 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 - *2017* **The Student Game Design Competition Runner-Up** at ACM CHI 
 - *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
 - *2014* **The Outstanding Graduate of Beijing** from Beijing Municipal Education Commission
-
