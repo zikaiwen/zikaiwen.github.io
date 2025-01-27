@@ -22,17 +22,34 @@ Hi there! I am a **human-computer interaction (HCI)** researcher specializing in
 I am a postdoc in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/), working with [Prof. Yaxing Yao](https://yaxingyao.cs.vt.edu/). I am fortunate to have worked as a postdoc at [the HKUST Visualization Lab](http://vis.cse.ust.hk/vislab_homepage/people.html). I received my Ph.D. degree in computer science from [Cornell University](https://www.cs.cornell.edu/). Before that, I recieved my first-class honours bachelor degrees in computer science from [University of Strathclyde, Glasgow, U.K.](https://www.strath.ac.uk/) and [BUCT, Beijing, China](https://www.buct.edu.cn/main.htm).
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 **<span style="color: green;">I am on the academic job market for a faculty position!</span>**
-- *2024.10*: &nbsp;🎉🎉 [Join my Oct 25 Virginia Tech talk on interactive gaming & intelligent agent systems for privacy & security!](https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html)
-- *2024.08*: &nbsp;🎉🎉 [I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in security and privacy!](https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024)
-- *2024.07*: &nbsp;🎉🎉 [I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!](https://chi2025.acm.org/for-authors/)
-- *2024.04*: &nbsp;🎉🎉 [I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!](https://spei2024.github.io/)
+<div class="responsive-scroll-container">
+<ul> 
+    <li><em><strong>2024.11:</strong></em> 🎉 <span style="color: green;"><strong>I am on the academic job market for a faculty position!</strong></span></li> 
+    <li><em><strong>2024.10:</strong></em> 🎉 <a href="https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html">Join my Oct 25 Virginia Tech talk on interactive gaming & intelligent agent systems for privacy & security!</a></li> 
+    <li><em><strong>2024.08:</strong></em> 🎉 <a href="https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024">I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in security and privacy!</a></li>
+    <li><em><strong>2024.07:</strong></em> 🎉 <a href="https://chi2025.acm.org/for-authors/">I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!</a></li>
+    <li><em><strong>2024.04:</strong></em> 🎉 <a href="https://spei2024.github.io/">I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!</a></li>
+    <li><em><strong>2023.07:</strong></em> 🎉 <a href="https://elafp.edb.edcity.hk/projects.php?lang=en">The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!</a></li>
+    <li><em><strong>2022.11:</strong></em> 🎉 <a href="https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/">I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!</a></li>
+</ul>  
+</div>
 
-<!-- - *2023.07*: &nbsp;🎉🎉 [The e-Learning Ancillary Facilities Program in which I act as a co-investigator secures 30 Million HKD funding from QEF!](https://elafp.edb.edcity.hk/projects.php?lang=en) -->
-<!-- - *2023.03*: &nbsp;🎉🎉 ["The Influence of Explanation Designs on User Understanding Differential Privacy and Making Data-sharing Decision" was published in Information Sciences Journal (JCR Q1, IF 8.1)!](https://www.sciencedirect.com/science/article/abs/pii/S0020025523003201) -->
-<!-- - *2022.11*: &nbsp;🎉🎉 [I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) -->
-<!-- - *2022.11*: &nbsp;🎉🎉 ["CollectiAR: Computer Vision-Based Word Hunt for Children with Dyslexia" poster was accepted by CHI Play'22.](https://cma.hkust-gz.edu.cn/zikai-ai-games/) -->
- <!-- - *2022.10*: &nbsp;🎉🎉 "New Differential Privacy Communication Pipeline and Design Framework" poster was accepted by SOUPS'22. -->
+<style>
+.responsive-scroll-container {
+  max-height: 14vh; /* Adjust as needed */
+  overflow-y: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Smooth scrolling on mobile */
+@media (hover: none) {
+  .responsive-scroll-container {
+    -webkit-overflow-scrolling: touch;
+  }
+}
+</style>
+
 
 # 📝 Selected Publications 
 
