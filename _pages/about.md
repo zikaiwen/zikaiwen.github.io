@@ -23,7 +23,8 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 
 # 🔥 News
 <div class="responsive-scroll-container">
-<ul> 
+<ul>
+    <li><em><strong>2025.03:</strong></em> 🎉 <a href="https://csis.gmu.edu/pages/seminars.php?id=2025-03-25-seminar">Join my Mar 25 GMU guest lecture on user-tailored differential privacy in the digital age!</a></li>
     <li><em><strong>2024.10:</strong></em> 🎉 <a href="https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html">Join my Oct 25 Virginia Tech talk on interactive gaming & intelligent agent systems for privacy & security!</a></li> 
     <li><em><strong>2024.08:</strong></em> 🎉 <a href="https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024">I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in security and privacy!</a></li>
     <li><em><strong>2024.07:</strong></em> 🎉 <a href="https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#user_experience">I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!</a></li>
@@ -103,7 +104,7 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 # 🎖 Awards and Grants
 - *2024* [**AI 2000 Most Influential Scholar Award Honorable Mention in Security and Privacy**](awards/aminer.png) from AMiner
 - *2022* [**The Fellowship of China Postdoctoral Science Foundation ($80K RMB)**](https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/) from CPSF
-- *2022* [**Outstanding Service Award**](awards/mmsp-service22.pdf) from IEEE MMSP
+- *2022* [**Outstanding Service Award**](awards/mmsp-service22.png) from IEEE MMSP
 - *2017* **The Student Game Design Competition Runner-Up** at ACM CHI 
 - *2014* **The Andrew McGettrick Prize** from University of Strathclyde, Glasgow
 - *2014* **The Outstanding Graduate of Beijing** from Beijing Municipal Education Commission
