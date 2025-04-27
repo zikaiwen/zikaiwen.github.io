@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Selected Pub"
+    url: "/#-selected-publications"
+    
+  - title: "Full Pub"
+    url: "/#-full-publications"
+
+  - title: "Awards and Grants"
+    url: "/#-awards-and-grants"
