@@ -57,7 +57,7 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'25</div><img src='images/sp25-preview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Supporting Family Discussions About Digital Privacy Through Perspective-Taking: An Empirical Investigation](articles/wen25supporting.pdf) in the proceedings of the IEEE Symposium on Security and Privacy (S&P), 2025.
+[Supporting Family Discussions About Digital Privacy Through Perspective-Taking: An Empirical Investigation](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00149) in the proceedings of the IEEE Symposium on Security and Privacy (S&P), 2025.
 
 **Authors:** **Zikai Wen**, Lanjing Liu, Yaxing Yao
 
