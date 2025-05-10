@@ -94,7 +94,7 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 
 # 📖 Full Publications
 
-Symbol \* indicates that I am the (co-)corresponding author. My current citation status is: <a href='https://scholar.google.com/citations?user=apCH14IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Symbol \* indicates that I am the (co-)corresponding author. My current citation statistics on Google Scholar: <a href='https://scholar.google.com/citations?user=apCH14IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 | Venue | Title and Authors | Field(s) |
 | ----: | :---------------- | :------: |
