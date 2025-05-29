@@ -27,6 +27,7 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
+@import "gamebox";
 
 @import "forms";
 
@@ -106,4 +107,9 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+/* Hyperlink color */
+a {
+  color: #32006e; // Change to Husky purple
 }

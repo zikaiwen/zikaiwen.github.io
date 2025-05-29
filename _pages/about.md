@@ -24,15 +24,15 @@ I am a postdoc in the Computer Science Department at [Virginia Tech](https://web
 # 🔥 News
 <div class="responsive-scroll-container">
 <ul>
-    <li><em><strong>2025.04:</strong></em> 🎉 <a href="https://sp2025.ieee-security.org/program.html#collapse-80">Our paper on facilitating family digital privacy discussions was accepted to IEEE S&P 2025!</a></li>
-    <li><em><strong>2025.03:</strong></em> 🎉 <a href="https://csis.gmu.edu/pages/seminars.php?id=2025-03-25-seminar">Join my Mar 25 GMU guest lecture on user-tailored differential privacy in the digital age!</a></li>
-    <li><em><strong>2024.10:</strong></em> 🎉 <a href="https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html">Join my Oct 25 Virginia Tech talk on interactive gaming & intelligent agent systems for privacy & security!</a></li> 
-    <li><em><strong>2024.08:</strong></em> 🎉 <a href="https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024">I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in security and privacy!</a></li>
-    <li><em><strong>2024.07:</strong></em> 🎉 <a href="https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#user_experience">I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!</a></li>
-    <li><em><strong>2024.05:</strong></em> 🎉 <a href="https://spei2024.github.io/">I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!</a></li>
-    <li><em><strong>2024.02:</strong></em> 🎉 <a href="https://hcil.umd.edu/events/event/bbl-speaker-series-decoding-teenagers-implicit-struggles-with-accessibility-and-safety-in-computing-technologies/">Join my April 18 UMD BBL talk on teenagers' implicit struggles with info tech safety & accessibility!</a></li>
-    <li><em><strong>2023.07:</strong></em> 🎉 <a href="https://chi2024.acm.org/subcommittees/selecting-a-subcommittee/">I am serving as an Associate Chair of ACM CHI 2024. Please submit your amazing work here!</a></li>
-    <li><em><strong>2022.11:</strong></em> 🎉 <a href="https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/">I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!</a></li>
+    <li><em><strong>2025.04:</strong></em> 🎉 <a href="https://sp2025.ieee-security.org/program.html#collapse-80" style="color:#85754d;">Our paper on facilitating family digital privacy discussions was accepted to IEEE S&P 2025!</a></li>
+    <li><em><strong>2025.03:</strong></em> 🎉 <a href="https://csis.gmu.edu/pages/seminars.php?id=2025-03-25-seminar" style="color:#85754d;">Join my Mar 25 GMU guest lecture on user-tailored differential privacy in the digital age!</a></li>
+    <li><em><strong>2024.10:</strong></em> 🎉 <a href="https://website.cs.vt.edu/research/Seminars/zikaialex_wen.html" style="color:#85754d;">Join my Oct 25 Virginia Tech talk on interactive gaming & intelligent agent systems for privacy & security!</a></li> 
+    <li><em><strong>2024.08:</strong></em> 🎉 <a href="https://www.aminer.cn/ai2000/search_rank?id=562cf8b845cedb3398d18ca9&searchValue=Zikai%20Wen%20(Alex)&yearLeft=2014&yearRight=2024" style="color:#85754d;">I am honored to receive the AI 2000 Most Influential Scholar Award Honorable Mention in security and privacy!</a></li>
+    <li><em><strong>2024.07:</strong></em> 🎉 <a href="https://chi2025.acm.org/subcommittees/selecting-a-subcommittee/#user_experience" style="color:#85754d;">I am serving as an Associate Chair of ACM CHI 2025. Please submit your amazing work here!</a></li>
+    <li><em><strong>2024.05:</strong></em> 🎉 <a href="https://spei2024.github.io/" style="color:#85754d;">I'm co-organizing a SOUPS workshop on revolutionizing privacy & security EdTech. Join us on Aug 11!</a></li>
+    <li><em><strong>2024.02:</strong></em> 🎉 <a href="https://hcil.umd.edu/events/event/bbl-speaker-series-decoding-teenagers-implicit-struggles-with-accessibility-and-safety-in-computing-technologies/" style="color:#85754d;">Join my April 18 UMD BBL talk on teenagers' implicit struggles with info tech safety & accessibility!</a></li>
+    <li><em><strong>2023.07:</strong></em> 🎉 <a href="https://chi2024.acm.org/subcommittees/selecting-a-subcommittee/" style="color:#85754d;">I am serving as an Associate Chair of ACM CHI 2024. Please submit your amazing work here!</a></li>
+    <li><em><strong>2022.11:</strong></em> 🎉 <a href="https://cma.hkust-gz.edu.cn/zikai-postdoc-fellowship/" style="color:#85754d;">I have been awarded the Fellowship of China Postdoctoral Science Foundation! A big thank you to my research team!</a></li>
 </ul>  
 </div>
 
@@ -127,19 +127,17 @@ Symbol \* indicates that I am the (co-)corresponding author. My current citation
 
 # 🎮 Fun Stuff
 
-<div class="game-box" style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 24px;">
-  <div class="game-box-image" style="flex-shrink: 0; position: relative;">
-    <div class="badge" style="position: absolute; top: 0; left: 0; background: #234099; color: white; font-weight: bold; padding: 4px 8px; font-size: 12px; border-radius: 2px;">LD#36</div>
-    <img src="images/tori-tori-thumb.png" alt="Tori Tori Panic" style="width: 130px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+<div class="game-box">
+  <div class="game-box-image">
+    <div class="badge">LD#36</div>
+    <img src="/images/tori-tori-thumb.png" alt="Tori Tori Panic">
   </div>
+  <div class="game-box-text" markdown="1">
+**[Tori Tori Panic](https://www.cs.cornell.edu/~zkwen/ld36/)** at Ludum Dare #36
 
-  <div class="game-box-text" style="flex: 1; margin: 0; padding: 0;">
-    <p style="margin: 0 0 8px 0;">
-      <a href="https://www.cs.cornell.edu/~zkwen/ld36/" style="font-weight: bold; font-size: 16px; color: #234099;">Tori Tori Panic</a> at Ludum Dare #36
-    </p>
-    <p style="margin: 0 0 4px 0;"><strong>Team:</strong> Jeff Huang, Yiming Li, Changxu Lu, <strong>Zikai Alex Wen</strong></p>
-    <p style="margin: 0;">
-      <strong>About:</strong> A stealthy archery game made in 72 hours for the "Ancient Technology" theme. Sneak around, take aim, and quietly shoot unsuspecting birds with pixel-perfect precision. Just don’t let them catch you.
-    </p>
+**Team:** Jeff Huang, Yiming Li, Changxu Lu, **Zikai Alex Wen**
+
+**About:** A stealthy archery game made in 72 hours for the _Ancient Technology_ theme. Sneak around, take aim, and quietly shoot unsuspecting birds with pixel-perfect precision. Just don’t let them catch you.
+
   </div>
 </div>
