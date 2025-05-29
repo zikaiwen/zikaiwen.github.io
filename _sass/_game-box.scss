@@ -1,0 +1,39 @@
+// _sass/_game-box.scss
+
+.game-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 24px;
+
+  &-image {
+    position: relative;
+    flex-shrink: 0;
+
+    img {
+      width: 130px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .badge {
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: #234099;
+      color: #fff;
+      font-weight: bold;
+      padding: 4px 8px;
+      font-size: 12px;
+      border-radius: 2px;
+    }
+  }
+
+  &-text {
+    flex: 1;
+
+    p {
+      margin: 0 0 .5em 0;
+    }
+  }
+}
